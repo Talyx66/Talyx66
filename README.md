@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="center">Welcome to my portfolio</h1>
 
-<!--
-**Talyx66/Talyx66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Founder & Lead Systems Engineer — Nyverra Systems
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+Red Team Engineering • Platform Development • Offensive Tooling
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+I design and build advanced cybersecurity frameworks, including WRAITHFRAME, BLOODFANG, AETHERGLASS, etc. 
+
+My focus is building **real systems**, not surface-level tools — engineered for performance, scalability, and offensive capability.
+
+---
+
+<p align="center">
+  <img src="https://your-image-link.com" width="500"/>
+</p>
