@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Tyler (Talyx)
+# Tyler C Beyhan (Talyx)
 ### Founder & CEO — Nyverra Systems
 #### OffSec R&D Engineer | Systems Architect
 
