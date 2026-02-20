@@ -24,7 +24,7 @@
 
 ---
 
-## 🧠 Operational Profile
+## Operational Profile
 
 I engineer **offensive security frameworks, automation systems, and scalable architectures** under **Nyverra Systems**.
 
@@ -37,7 +37,7 @@ This is **system-level engineering**, not surface tooling.
 
 ---
 
-## 🏆 Certifications & Status
+## Certifications & Status
 
 <div align="center">
 
@@ -50,7 +50,7 @@ This is **system-level engineering**, not surface tooling.
 
 ---
 
-## ⚙️ Platform Ecosystem (Nyverra)
+## Platform Ecosystem (Nyverra)
 
 | System | Role |
 |------|------|
@@ -62,7 +62,7 @@ This is **system-level engineering**, not surface tooling.
 
 ---
 
-## 🧰 Engineering Stack
+## Engineering Stack
 
 <div align="center">
 
@@ -97,7 +97,7 @@ This is **system-level engineering**, not surface tooling.
 
 ---
 
-## 🚀 Active Development Vector
+## Active Development Vector
 
 - Scaling **Nyverra Systems** into a full engineering + security firm  
 - Hardening **WRAITHFRAME** for enterprise-grade deployment  
@@ -106,17 +106,17 @@ This is **system-level engineering**, not surface tooling.
 
 ---
 
-## 📡 External Presence
+## External Presence
 
-- 🌐 https://nyverrasystems.com  
-- 💼 LinkedIn (add your link)  
-- 🧠 GitHub: https://github.com/Talyx66  
+- https://nyverrasystems.com  
+- LinkedIn: https://www.linkedin.com/in/tyler-b-4439732b0/  
+- GitHub: https://github.com/Talyx66  
 
 ---
 
 <div align="center">
 
-### ⚔️ Engineering Philosophy
+### Engineering Philosophy
 
 > Systems over scripts.  
 > Execution over theory.  
