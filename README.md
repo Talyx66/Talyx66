@@ -1,82 +1,85 @@
 <div align="center">
 
-# Tyler C Beyhan (Talyx)
-### Founder & CEO — Nyverra Systems
-#### OffSec R&D Engineer | Systems Architect
+# ⚡ Tyler C Beyhan (Talyx)
+### Founder & CEO — Nyverra Systems  
+#### OffSec R&D Engineer • Systems Architect • Platform Builder
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7A3FFF&center=true&vCenter=true&width=600&lines=Offensive+Security+Engineer;Framework+Architect;Building+Real+Systems;Nyverra+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=800&color=7A3FFF&center=true&vCenter=true&width=700&lines=Offensive+Security+Engineering;Framework+Development;Production+Systems;Nyverra+Systems" />
 
----
-
-### Nyverra Systems
+<br/>
 
 <a href="https://nyverrasystems.com">
-  <img src="https://img.shields.io/badge/Website-Nyverra_Systems-7A3FFF?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🌐_Nyverra_Systems-Enterprise_Platforms-7A3FFF?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
+
 <a href="https://github.com/Talyx66">
-  <img src="https://img.shields.io/badge/GitHub-Talyx66-black?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/GitHub-Talyx66-111111?style=for-the-badge&logo=github"/>
 </a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Talyx66&label=Profile+Views&color=7A3FFF&style=flat-square"/>
 
 </div>
 
 ---
 
-## About
+## 🧠 Operational Profile
 
-I engineer **offensive security frameworks, automation systems, and scalable software platforms** under **Nyverra Systems**.
+I engineer **offensive security frameworks, automation systems, and scalable architectures** under **Nyverra Systems**.
 
-My focus:
-- Real-world attack simulation & tooling  
-- Modular, extensible frameworks  
-- Production-grade architecture  
+Built for:
+- real-world execution  
+- modular expansion  
+- production environments  
 
-Everything is built to **function, scale, and execute**.
+This is **system-level engineering**, not surface tooling.
 
 ---
 
-## Certifications & Achievements
+## 🏆 Certifications & Status
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/CompTIA-Security%2B-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CEH-In_Progress-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/HackerOne-Active-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GitHub-Active_Contributor-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CEH-In_Progress-1E90FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HackerOne-Active-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Focus-Offensive_Engineering-7A3FFF?style=for-the-badge"/>
 
 </div>
 
 ---
 
-## Core Platforms
+## ⚙️ Platform Ecosystem (Nyverra)
 
-| Platform | Description |
-|--------|------------|
-| **WRAITHFRAME** | Advanced security automation & threat intelligence platform |
-| **BLOODFANG** | Offensive red-team toolkit with GUI + payload systems |
-| **WEBFANG** | OSINT & reconnaissance framework |
+| System | Role |
+|------|------|
+| **WRAITHFRAME** | Multi-domain security automation & threat intelligence platform |
+| **BLOODFANG** | Offensive toolkit with GUI + payload systems |
+| **WEBFANG** | OSINT & reconnaissance engine |
 | **SCRIPTFANG** | Payload generation & mutation engine |
-| **AETHERGLASS** | Planet-scale intelligence observatory |
+| **AETHERGLASS** | Planet-scale scientific-security observatory |
 
 ---
 
-## Tech Stack
+## 🧰 Engineering Stack
 
 <div align="center">
 
-### Languages
+### Core Languages
 <img src="https://skillicons.dev/icons?i=python,c,cpp,bash,js,ts"/>
 
-### Systems / Tools
+### Systems & Infrastructure
 <img src="https://skillicons.dev/icons?i=linux,git,docker"/>
 
-### Frameworks / UI
+### Interface / Platform Layer
 <img src="https://skillicons.dev/icons?i=react,nextjs"/>
 
 </div>
 
 ---
 
-## GitHub Intelligence
+## 📊 GitHub Telemetry
 
 <div align="center">
 
@@ -88,31 +91,35 @@ Everything is built to **function, scale, and execute**.
 
 ---
 
-## Activity Graph
+## 🧬 Activity Signal
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Talyx66&theme=tokyo-night&hide_border=true"/>
 
 ---
 
-## Current Focus
+## 🚀 Active Development Vector
 
 - Scaling **Nyverra Systems** into a full engineering + security firm  
-- Advancing **WRAITHFRAME** to enterprise-grade deployment  
-- Building **AETHERGLASS** (scientific-security observatory)  
-- Developing **offensive AI-assisted tooling**  
+- Hardening **WRAITHFRAME** for enterprise-grade deployment  
+- Building **AETHERGLASS** into a global observability platform  
+- Expanding offensive tooling with AI-assisted execution  
 
 ---
 
-## Contact
+## 📡 External Presence
 
-- https://nyverrasystems.com  
-- LinkedIn (add link)  
-- GitHub: https://github.com/Talyx66  
+- 🌐 https://nyverrasystems.com  
+- 💼 LinkedIn (add your link)  
+- 🧠 GitHub: https://github.com/Talyx66  
 
 ---
 
 <div align="center">
 
-> “I don’t build projects. I build systems.”
+### ⚔️ Engineering Philosophy
+
+> Systems over scripts.  
+> Execution over theory.  
+> Architecture over shortcuts.
 
 </div>
