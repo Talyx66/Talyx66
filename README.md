@@ -8,7 +8,7 @@
 
 ---
 
-### 🌐 Nyverra Systems
+### Nyverra Systems
 
 <a href="https://nyverrasystems.com">
   <img src="https://img.shields.io/badge/Website-Nyverra_Systems-7A3FFF?style=for-the-badge&logo=vercel&logoColor=white"/>
@@ -34,7 +34,7 @@ Everything is built to **function, scale, and execute**.
 
 ---
 
-## 🏆 Certifications & Achievements
+## Certifications & Achievements
 
 <div align="center">
 
@@ -47,7 +47,7 @@ Everything is built to **function, scale, and execute**.
 
 ---
 
-## ⚙️ Core Platforms
+## Core Platforms
 
 | Platform | Description |
 |--------|------------|
@@ -76,7 +76,7 @@ Everything is built to **function, scale, and execute**.
 
 ---
 
-## 📊 GitHub Intelligence
+## GitHub Intelligence
 
 <div align="center">
 
