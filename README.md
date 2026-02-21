@@ -50,7 +50,7 @@ This is **system-level engineering**, not surface tooling.
 
 <img src="https://img.shields.io/badge/CompTIA-Security%2B-red?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/CEH-In_Progress-1E90FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/HackerOne-Active-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Bugcrowd-Active-000000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Focus-Offensive_Engineering-7A3FFF?style=for-the-badge"/>
 
 </div>
