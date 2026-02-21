@@ -59,6 +59,8 @@ This is **system-level engineering**, not surface tooling.
 | **WEBFANG** | OSINT & reconnaissance engine |
 | **SCRIPTFANG** | Payload generation & mutation engine |
 | **AETHERGLASS** | Planet-scale scientific-security observatory |
+| **SOULSYNC** | Social platform |
+| **Nyverra-Atlas** | Robotics Operating Platform |
 
 ---
 
