@@ -88,7 +88,7 @@ This is **system-level engineering**, not surface tooling.
 
 ---
 
-## 📊 GitHub Telemetry
+## GitHub Telemetry
 
 <div align="center">
 
@@ -100,7 +100,7 @@ This is **system-level engineering**, not surface tooling.
 
 ---
 
-## 🧬 Activity Signal
+## Activity Signal
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Talyx66&theme=tokyo-night&hide_border=true"/>
 
@@ -117,7 +117,7 @@ This is **system-level engineering**, not surface tooling.
 
 ## External Presence
 
-- https://nyverrasystems.com  
+- Website: https://nyverrasystems.com  
 - LinkedIn: https://www.linkedin.com/in/tyler-b-4439732b0/  
 - GitHub: https://github.com/Talyx66  
 
