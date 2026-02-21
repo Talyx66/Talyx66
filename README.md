@@ -12,6 +12,13 @@
   <img src="https://img.shields.io/badge/🌐_Nyverra_Systems-Enterprise_Platforms-7A3FFF?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
+<br/>
+
+### Need a system built, platform engineered, or tool developed?
+
+➡️ Go to **Nyverra Systems** and submit an intake request:  
+https://nyverrasystems.com
+
 <a href="https://github.com/Talyx66">
   <img src="https://img.shields.io/badge/GitHub-Talyx66-111111?style=for-the-badge&logo=github"/>
 </a>
