@@ -66,9 +66,11 @@ This is **system-level engineering**, not surface tooling.
 | **WEBFANG** | OSINT & reconnaissance engine |
 | **SCRIPTFANG** | Payload generation & mutation engine |
 | **AETHERGLASS** | Planet-scale scientific-security observatory |
-| **SOULSYNC** | Social platform |
+| **SOULSYNC** | Social & Connections platform | 
+| **EAGLESEER** | HUMINT & OSINT Platform |
+| **VitalLine** | Electronic Medical Record (EMR) system |
 | **Nyverra-Atlas** | Robotics Operating Platform |
-
+| **Nyverra AI** | Nyverra Artificial Intelligence |
 ---
 
 ## Engineering Stack
