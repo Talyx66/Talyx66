@@ -78,10 +78,10 @@ This is **system-level engineering**, not surface tooling.
 <div align="center">
 
 ### Core Languages
-<img src="https://skillicons.dev/icons?i=python,c,cpp,bash,js,ts,css,kotlin"/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,bash,js,ts,css,kotlin,restapi"/>
 
 ### Systems & Infrastructure
-<img src="https://skillicons.dev/icons?i=linux,git,docker"/>
+<img src="https://skillicons.dev/icons?i=linux,git,docker,ubuntu,debian"/>
 
 ### Interface / Platform Layer
 <img src="https://skillicons.dev/icons?i=react,nextjs"/>
