@@ -81,10 +81,10 @@ This is **system-level engineering**, not surface tooling.
 <img src="https://skillicons.dev/icons?i=python,c,cpp,bash,js,ts,css,kotlin"/>
 
 ### Systems & Infrastructure
-<img src="https://skillicons.dev/icons?i=linux,git,docker,ubuntu,debian"/>
+<img src="https://skillicons.dev/icons?i=linux,git,docker,ubuntu,debian,github"/>
 
 ### Interface / Platform Layer
-<img src="https://skillicons.dev/icons?i=react,nextjs"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,resend"/>
 
 </div>
 
