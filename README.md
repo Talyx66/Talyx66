@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/Nyverra.png" alt="Nyverra Systems Logo" width="170" />
+<img src="./Nyverra.png" alt="Nyverra Systems Logo" width="170" />
 
 # Tyler C Beyhan (Talyx)
 ### Founder & CEO — Nyverra Systems  
