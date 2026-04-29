@@ -51,9 +51,9 @@ This is **system-level engineering**, not surface tooling.
 <div align="center">
 
 <img src="https://img.shields.io/badge/CyberSecurity%2B-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CompTIA-PenTest+%2B-5A0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CompTIA-PenTest%2B-5A0000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/CompTIA-Security%2B-660000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CEH-7A0C0C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CEH-exam_pending-7A0C0C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Bugcrowd-Active-E65C00?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Focus-Systems_Engineering-7A3FFF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Focus-Offensive_Engineering-7A3FFF?style=for-the-badge"/>
