@@ -6,12 +6,12 @@
 ### Founder & CEO — Nyverra Systems  
 #### OffSec R&D Engineer • Systems Architect • Platform Builder
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=800&color=7A3FFF&center=true&vCenter=true&width=700&lines=Offensive+Security+Engineering;Framework+Development;Production+Systems;Nyverra+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=800&color=5B21B6&center=true&vCenter=true&width=700&lines=Offensive+Security+Engineering;Framework+Development;Production+Systems;Nyverra+Systems" />
 
 <br/>
 
 <a href="https://nyverrasystems.com">
-  <img src="https://img.shields.io/badge/🌐_Nyverra_Systems-Enterprise_Platforms-7A3FFF?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🌐_Nyverra_Systems-Enterprise_Platforms-5B21B6?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <br/>
@@ -27,7 +27,7 @@ https://nyverrasystems.com
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Talyx66&label=Profile+Views&color=7A3FFF&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=Talyx66&label=Profile+Views&color=5B21B6&style=flat-square"/>
 
 </div>
 
@@ -56,7 +56,7 @@ This is **system-level engineering**, not surface tooling.
 <img src="https://img.shields.io/badge/CEH-exam_pending-7A0C0C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Bugcrowd-Active-E65C00?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Focus-Systems_Engineering-5B21B6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Focus-Offensive_Engineering-7A3FFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Focus-Offensive_Engineering-5B21B6?style=for-the-badge"/>
 
 </div>
 
