@@ -50,8 +50,6 @@ This is **system-level engineering**, not surface tooling.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Custom%20Systems%20%26%20Security%20Engineering%20Firm-7A3FFF?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/CyberSecurity-1D4ED8?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/CompTIA%20PenTest%2B-5A0000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/CompTIA%20Security%2B-660000?style=for-the-badge"/>
