@@ -1,143 +1,204 @@
 <div align="center">
 
-<img src="./Nyverra.png" alt="Nyverra Systems Logo" width="170" />
+<img src="./Nyverra.png" alt="Nyverra Systems Logo" width="180" />
+
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=2600&pause=700&color=7A3FFF&center=true&vCenter=true&width=900&lines=Nyverra+Systems;Enterprise+Systems+Engineering;Offensive+Security+R%26D;Platform+Architecture;Infrastructure+%26+Automation" />
+
+<br/>
 
 # Tyler C Beyhan (Talyx)
+
 ### Founder & CEO — Nyverra Systems  
 #### OffSec R&D Engineer • Systems Architect • Platform Builder
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=800&color=5B21B6&center=true&vCenter=true&width=700&lines=Offensive+Security+Engineering;Framework+Development;Production+Systems;Nyverra+Systems" />
 
 <br/>
 
 <a href="https://nyverrasystems.com">
-  <img src="https://img.shields.io/badge/🌐_Nyverra_Systems-Enterprise_Platforms-5B21B6?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ENTER_NYVERRA_SYSTEMS-Enterprise_Platforms-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<br/>
-
-### Need a system built, platform engineered, or tool developed?
-
-➡️ Go to **Nyverra Systems** and submit an intake request:  
-https://nyverrasystems.com
-
 <a href="https://github.com/Talyx66">
-  <img src="https://img.shields.io/badge/GitHub-Talyx66-111111?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/GITHUB-Talyx66-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/tyler-b-4439732b0/">
+  <img src="https://img.shields.io/badge/LINKEDIN-Tyler_Beyhan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Talyx66&label=Profile+Views&color=5B21B6&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=Talyx66&label=PROFILE%20VIEWS&color=6D28D9&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/Talyx66?style=for-the-badge&color=6D28D9&labelColor=111111"/>
+
+<img src="https://img.shields.io/github/stars/Talyx66?style=for-the-badge&color=6D28D9&labelColor=111111"/>
 
 </div>
 
 ---
 
-## Operational Profile
+# Operational Profile
 
-I engineer **offensive security frameworks, automation systems, and scalable architectures** under **Nyverra Systems**.
+I architect and engineer:
 
-Built for:
-- real-world execution  
-- modular expansion  
-- production environments  
+- offensive security frameworks  
+- scalable infrastructure systems  
+- enterprise-grade automation platforms  
+- AI-enhanced operational tooling  
+- advanced observability environments  
 
-This is **system-level engineering**, not surface tooling.
+under **Nyverra Systems**.
+
+Focused on:
+- modularity
+- execution velocity
+- production deployment
+- long-term scalability
+- systems-first engineering
 
 ---
 
-## Certifications & Status
+# Certifications & Active Tracks
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/CyberSecurity-1D4ED8?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CompTIA%20PenTest%2B-5A0000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CompTIA%20Security%2B-660000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CEH%20%7C%20Exam%20Pending-7A0C0C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PMP%20%7C%20Exam%20Pending-006F51?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Bugcrowd%20Active-E65C00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CYBERSECURITY-1E3A8A?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Focus%20-%20Systems%20Engineering-5B21B6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Focus%20-%20Offensive%20Engineering-5B21B6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CompTIA_Security+-7F1D1D?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/CompTIA_PenTest+-5B0212?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/CEH-991B1B?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/PMP-065F46?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Bugcrowd-Active-EA580C?style=for-the-badge"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/FOCUS-SYSTEMS_ENGINEERING-6D28D9?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/FOCUS-OFFENSIVE_ENGINEERING-6D28D9?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/FOCUS-PLATFORM_ARCHITECTURE-6D28D9?style=for-the-badge"/>
 
 </div>
 
 ---
 
-## Platform Ecosystem (Nyverra)
+# Nyverra Platform Ecosystem
 
-| System | Role |
-|------|------|
-| **WRAITHFRAME** | Multi-domain security automation & threat intelligence platform |
-| **BLOODFANG** | Offensive toolkit with GUI + payload systems |
-| **WEBFANG** | OSINT & reconnaissance engine |
-| **SCRIPTFANG** | Payload generation & mutation engine |
-| **AETHERGLASS** | Planet-scale scientific-security observatory |
-| **SOULSYNC** | Social & Connections platform | 
-| **EAGLESEER** | HUMINT & OSINT Platform |
+| Platform | Function |
+|----------|----------|
+| **WRAITHFRAME** | Enterprise offensive security & threat intelligence platform |
+| **WEBFANG** | OSINT & reconnaissance intelligence engine |
+| **BLOODFANG** | Offensive tooling suite with GUI + payload systems |
+| **SCRIPTFANG** | Payload generation & mutation framework |
+| **AETHERGLASS** | Planet-scale scientific & security observability platform |
+| **SOULSYNC** | Social and connections ecosystem |
+| **EAGLESEER** | HUMINT & OSINT intelligence environment |
 | **VitalLine** | Electronic Medical Record (EMR) system |
-| **Nyverra-Atlas** | Robotics Operating Platform |
-| **Nyverra AI** | Nyverra Artificial Intelligence |
+| **Nyverra Atlas** | Robotics operating platform |
+| **Nyverra AI** | Artificial intelligence & automation initiative |
+
 ---
 
-## Engineering Stack
+# Engineering Stack
 
 <div align="center">
 
-### Core Languages
-<img src="https://skillicons.dev/icons?i=python,c,cpp,bash,js,ts,css,kotlin,rust,shell"/>
+### Core Engineering Languages
+<img src="https://skillicons.dev/icons?i=python,c,cpp,rust,bash,js,ts,kotlin,css"/>
 
-### Systems & Infrastructure
-<img src="https://skillicons.dev/icons?i=linux,git,docker,ubuntu,debian,github"/>
+<br/><br/>
 
-### Interface / Platform Layer
-<img src="https://skillicons.dev/icons?i=react,nextjs,vercel"/>
+### Infrastructure & Systems
+<img src="https://skillicons.dev/icons?i=linux,docker,git,github,debian,ubuntu"/>
+
+<br/><br/>
+
+### Frontend & Platform Layer
+<img src="https://skillicons.dev/icons?i=react,nextjs,vercel,nodejs"/>
+
+<br/><br/>
+
+### Security & Development Workflow
+<img src="https://skillicons.dev/icons?i=vscode,cloudflare,nginx,postgres"/>
 
 </div>
 
 ---
 
-## GitHub Telemetry
+# GitHub Intelligence
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Talyx66&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Talyx66&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Talyx66&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Talyx66&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## Activity Signal
+# Operational Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Talyx66&theme=tokyo-night&hide_border=true"/>
-
----
-
-## Active Development Vector
-
-- Scaling **Nyverra Systems** into a full engineering + security firm  
-- Hardening **WRAITHFRAME** for enterprise-grade deployment  
-- Building **AETHERGLASS** into a global observability platform  
-- Expanding offensive tooling with AI-assisted execution  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Talyx66&theme=tokyo-night&hide_border=true&area=true"/>
 
 ---
 
-## External Presence
+# Current Development Vector
 
-- Website: https://nyverrasystems.com  
-- LinkedIn: https://www.linkedin.com/in/tyler-b-4439732b0/  
-- GitHub: https://github.com/Talyx66  
+- Scaling **Nyverra Systems** into a full engineering & security organization
+- Advancing **WRAITHFRAME** toward enterprise operational readiness
+- Building **AETHERGLASS** into a real-time global observability system
+- Expanding AI-assisted offensive engineering workflows
+- Engineering configurable enterprise dashboard infrastructure
+- Developing scalable SaaS-ready internal platform systems
+
+---
+
+# Enterprise Access
+
+<div align="center">
+
+<a href="https://nyverrasystems.com">
+  <img src="https://img.shields.io/badge/NYVERRA_SYSTEMS-Live_Platform-6D28D9?style=for-the-badge&logo=firefoxbrowser&logoColor=white"/>
+</a>
+
+<a href="https://nyverrasystems.com/portal">
+  <img src="https://img.shields.io/badge/NYVERRA_PORTAL-Enterprise_Dashboard-4C1D95?style=for-the-badge&logo=windows-terminal&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Talyx66">
+  <img src="https://img.shields.io/badge/OPEN_GITHUB-Research_%26_Development-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# External Presence
+
+- Website → https://nyverrasystems.com  
+- LinkedIn → https://www.linkedin.com/in/tyler-b-4439732b0/  
+- GitHub → https://github.com/Talyx66  
 
 ---
 
 <div align="center">
 
-### Engineering Philosophy
+# Engineering Philosophy
 
-> Systems over scripts.  
-> Execution over theory.  
-> Architecture over shortcuts.
+### Systems over scripts.  
+### Architecture over shortcuts.  
+### Execution over theory.  
+### Infrastructure over hype.
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6D28D9&height=120&section=footer"/>
 
 </div>
