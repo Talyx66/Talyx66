@@ -10,7 +10,7 @@
 
 # Tyler C Beyhan (Talyx)
 
-### Founder & CEO — Nyverra Systems  
+### Founder & CEO - Nyverra Systems  
 #### OffSec R&D Engineer • Systems Architect • Platform Builder
 
 <br/>
