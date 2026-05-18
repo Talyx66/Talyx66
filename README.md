@@ -168,10 +168,6 @@ Focused on:
   <img src="https://img.shields.io/badge/NYVERRA_SYSTEMS-Live_Platform-6D28D9?style=for-the-badge&logo=firefoxbrowser&logoColor=white"/>
 </a>
 
-<a href="https://nyverrasystems.com/portal">
-  <img src="https://img.shields.io/badge/NYVERRA_PORTAL-Enterprise_Dashboard-4C1D95?style=for-the-badge&logo=windows-terminal&logoColor=white"/>
-</a>
-
 <a href="https://github.com/Talyx66">
   <img src="https://img.shields.io/badge/OPEN_GITHUB-Research_%26_Development-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
