@@ -92,7 +92,7 @@ Focused on:
 
 | Platform | Function |
 |----------|----------|
-| **Nyverra Nexus** | Next-generation modern Business Operations Dashboard |
+| **Nyverra Nexus** | Next-gen Business Operations Dashboard |
 | **Nyverra Atlas** | Robotics operating platform |
 | **Nyverra AI** | Artificial intelligence & automation initiative |
 | **WRAITHFRAME** | Enterprise offensive security & threat intelligence platform |
