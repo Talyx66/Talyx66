@@ -101,10 +101,6 @@ Focused on:
 | **EAGLESEER** | HUMINT & OSINT intelligence environment |
 | **VitalLine** | Electronic Medical Record (EMR) system |
 
----
-
----
-
 # Talyx Platform Ecosystem
 
 | Platform | Function |
