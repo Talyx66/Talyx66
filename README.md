@@ -92,16 +92,26 @@ Focused on:
 
 | Platform | Function |
 |----------|----------|
+| **Nyverra Nexus** | Next-generation modern Business Operations Dashboard |
+| **Nyverra Atlas** | Robotics operating platform |
+| **Nyverra AI** | Artificial intelligence & automation initiative |
 | **WRAITHFRAME** | Enterprise offensive security & threat intelligence platform |
-| **WEBFANG** | OSINT & reconnaissance intelligence engine |
-| **BLOODFANG** | Offensive tooling suite with GUI + payload systems |
-| **SCRIPTFANG** | Payload generation & mutation framework |
 | **AETHERGLASS** | Planet-scale scientific & security observability platform |
 | **SOULSYNC** | Social and connections ecosystem |
 | **EAGLESEER** | HUMINT & OSINT intelligence environment |
 | **VitalLine** | Electronic Medical Record (EMR) system |
-| **Nyverra Atlas** | Robotics operating platform |
-| **Nyverra AI** | Artificial intelligence & automation initiative |
+
+---
+
+---
+
+# Talyx Platform Ecosystem
+
+| Platform | Function |
+|----------|----------|
+| **WEBFANG** | OSINT & reconnaissance intelligence engine |
+| **BLOODFANG** | Offensive tooling suite with GUI + payload systems |
+| **SCRIPTFANG** | Payload generation & mutation framework |
 
 ---
 
@@ -152,6 +162,7 @@ Focused on:
 # Current Development Vector
 
 - Scaling **Nyverra Systems** into a full engineering & security organization
+- Developing **Nyverra Nexus** Next-generation modern Business Operations Dashboard 
 - Advancing **WRAITHFRAME** toward enterprise operational readiness
 - Building **AETHERGLASS** into a real-time global observability system
 - Expanding AI-assisted offensive engineering workflows
