@@ -86,7 +86,7 @@ Focused on:
 
 </div>
 
-# Project Updates:
+# Updates:
 ```
 **Nyverra Nexus** & **WraithFrame** are coming soon to Nyverra Systems
 ```
