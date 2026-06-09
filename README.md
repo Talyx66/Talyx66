@@ -96,11 +96,10 @@ Focused on:
 | Platform | Function |
 |----------|----------|
 | **Nyverra Nexus** | Next-gen Business Operations Dashboard |
-| **Nyverra Atlas** | Robotics operating platform |
 | **Nyverra AI** | Artificial intelligence & automation initiative |
+| **Nyverra Atlas** | Robotics operating platform |
 | **WRAITHFRAME** | Enterprise offensive security & threat intelligence platform |
 | **AETHERGLASS** | Planet-scale scientific & security observability platform |
-| **SOULSYNC** | Social and connections ecosystem |
 | **EAGLESEER** | HUMINT & OSINT intelligence environment |
 | **VitalLine** | Electronic Medical Record (EMR) system |
 
@@ -111,6 +110,7 @@ Focused on:
 | **WEBFANG** | OSINT & reconnaissance intelligence engine |
 | **BLOODFANG** | Offensive tooling suite with GUI + payload systems |
 | **SCRIPTFANG** | Payload generation & mutation framework |
+| **SOULSYNC** | Social and connections ecosystem |
 
 ---
 
