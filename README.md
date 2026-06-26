@@ -58,6 +58,7 @@ Focused on:
 - long-term scalability
 - systems-first engineering
 
+built from scratch, no templates.
 ---
 
 # Certifications & Active Tracks
@@ -88,7 +89,7 @@ Focused on:
 
 # Updates:
 ```
-**Nyverra Nexus** & **WraithFrame** are coming soon to Nyverra Systems
+**Nyverra Nexus**  coming soon to Nyverra Systems
 ```
 
 # Nyverra Platform Ecosystem
