@@ -192,6 +192,9 @@ built from scratch, no templates.
 - Website → https://nyverrasystems.com  
 - LinkedIn → https://www.linkedin.com/in/tyler-b-4439732b0/  
 - GitHub → https://github.com/Talyx66  
+- Facebook → https://facebook.com/nyverrasystems.com
+- Medium → https://medium.com/nyverrasystems.com
+
 
 ---
 
