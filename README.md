@@ -58,7 +58,7 @@ Focused on:
 - long-term scalability
 - systems-first engineering
 
-built from scratch, no templates.
+Built & engineered from scratch, no templates.
 ---
 
 # Certifications & Active Tracks
