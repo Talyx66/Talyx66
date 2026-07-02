@@ -99,8 +99,9 @@ Built & engineered from scratch, no templates.
 | **Nyverra Nexus** | Next-gen Business Operations Dashboard |
 | **Nyverra AI** | Artificial intelligence & automation initiative |
 | **Nyverra Atlas** | Robotics operating platform |
-| **WRAITHFRAME** | Enterprise offensive security & threat intelligence platform |
-| **AETHERGLASS** | Planet-scale scientific & security observability platform |
+| **WrithFrame** | Enterprise offensive security & threat intelligence platform |
+| **AetherGlass** | Planet-scale scientific & security observability platform |
+| **SYNTRA** | Enterprise security analytics and threat detection Platform
 | **EAGLESEER** | HUMINT & OSINT intelligence environment |
 | **VitalLine** | Electronic Medical Record (EMR) system |
 
@@ -111,7 +112,8 @@ Built & engineered from scratch, no templates.
 | **WEBFANG** | OSINT & reconnaissance intelligence engine |
 | **BLOODFANG** | Offensive tooling suite with GUI + payload systems |
 | **SCRIPTFANG** | Payload generation & mutation framework |
-| **SOULSYNC** | Social and connections ecosystem |
+| **SoulSync** | Social and connections ecosystem |
+| **XTREME** | Advanced adversary emulation for authorized security testing |
 
 ---
 
