@@ -196,7 +196,7 @@ Built & engineered from scratch, no templates.
 - GitHub → https://github.com/Talyx66  
 - Facebook → https://facebook.com/nyverrasystems.com
 - Medium → https://medium.com/nyverrasystems.com
-- X → https://twitter.com/nyverrasystems.com
+- X → https://X.com/nyverrasystems.com
 
 
 ---
