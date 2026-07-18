@@ -98,10 +98,10 @@ Built & engineered from scratch, no templates.
 |----------|----------|
 | **Nyverra Nexus** | Next-gen Business Operations Dashboard |
 | **Nyverra AI** | Artificial intelligence & automation initiative |
-| **Nyverra Atlas** | Robotics operating platform |
 | **WraithFrame** | Enterprise offensive security & threat intelligence platform |
 | **AetherGlass** | Planet-scale scientific & security observability platform |
-| **SYNTRA** | Enterprise security analytics and threat detection Platform
+| **Nyverra Syntra** | Enterprise security analytics and threat detection Platform |
+| **Nyverra Atlas** | Robotics operating platform |
 | **EAGLESEER** | HUMINT & OSINT intelligence environment |
 | **VitalLine** | Electronic Medical Record (EMR) system |
 
