@@ -89,7 +89,7 @@ Built & engineered from scratch, no templates.
 
 # Updates:
 ```
-**Nyverra Nexus**  coming soon to Nyverra Systems
+Nyverra Nexus - coming soon to Nyverra Systems
 ```
 
 # Nyverra Platform Ecosystem
