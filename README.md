@@ -10,7 +10,7 @@
 
 # Tyler C Beyhan (Talyx)
 
-### Founder & Principal Systems & Security Engineer - Nyverra Systems  
+### Founder / CEO & Principal Systems & Security Engineer - Nyverra Systems  
 #### OffSec R&D Engineer • Systems Architect • Platform Builder
 
 <br/>
